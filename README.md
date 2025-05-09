@@ -1,7 +1,7 @@
 # sig-asobi
 archive of SIG-ASOBI
 
-SIGーASOBIの開催記録
+SIG-ASOBIの開催記録
 
 2025/05/09
 御殿下で卓球
